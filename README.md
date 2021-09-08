@@ -7,7 +7,7 @@ A.Y. 2019-2020
 The project consists in the implementation of a simple text editor.  
 The editor interface supports only text commands, terminated by `\n`. Commands can be followed by a portion of text, consisting of one or more lines, terminated by `.`, which appears as the only character on the following line.  
 The maximum length of a line of text is **1024** characters.  
-Complete specifications can be found [here](/specifications.pdf) (only in italian).
+Complete specifications can be found [here](specification.pdf) (only in italian).
 
 ## Commands :keyboard:
 
